@@ -26,3 +26,7 @@ python-twisted-core:
   osx:
     pip:
       packages: [twisted]
+python-bson:
+  osx:
+    pip:
+      packages: [pymongo]
