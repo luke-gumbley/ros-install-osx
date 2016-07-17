@@ -22,3 +22,7 @@ python-scipy:
   osx:
     homebrew:
       packages: [homebrew/python/scipy]
+python-twisted-core:
+  osx:
+    pip:
+      packages: [twisted]
